@@ -156,9 +156,10 @@ WATCH_COUNTRY = os.environ.get("WATCH_COUNTRY", "ID")
 GIT_REPO_NAME = os.environ.get("GIT_REPO_NAME", None)
 GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 
-# Custom (forked) repo URL for updater.
+# Custom (forked) repo 
+updater.
 UPSTREAM_REPO_URL = os.environ.get(
-    "UPSTREAM_REPO_URL", "https://github.com/mrismanaziz/Man-Userbot.git"
+    "UPSTREAM_REPO_URL", "https://github.com/physicalmkgs/Man-Userbot.git"
 )
 
 # Custom Name Sticker Pack
